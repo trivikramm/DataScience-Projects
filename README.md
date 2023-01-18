@@ -1,2 +1,2 @@
-# LGMVIP--DataScience
-LetsGrowMore Data Science Internship
+# DataScience Projects
+
